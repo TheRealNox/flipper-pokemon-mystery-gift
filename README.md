@@ -90,7 +90,7 @@ Defaults (name `FLIPPER`, region France, Rare Candy, random ID on) are set in
 - Decoration gifts in the UI (the deco table is already in `mg_gift.h`).
 - Show the partner data received from the cart (name / dex / party) on screen.
 - Capture-and-replay mode (store a received payload and re-send it).
-- Tested only against a French Crystal cart so far — Gold/Silver and other
+- Tested only against French Crystal and Gold carts so far — Silver and other
   regions should work (region is auto-detected) but are unverified.
 
 ## Credits
